@@ -1,13 +1,4 @@
 # Amazon_Clone
-Amazon Clone/
-├── amzon.inlogo.png       # Logo image
-├── box1.jpg - box8.jpeg   # Product/category images
-├── fevicon.webp           # Favicon
-├── hero_img.jpg           # Hero/banner image
-├── index.html             # Main HTML file
-└── style.css              # CSS for styling
-
-
 This project is a **responsive clone of the Amazon homepage**, built using HTML and CSS. It mimics the layout, design, and features of the original Amazon site for educational and UI/UX practice purposes.
 
 ## 📁 Project Structure
